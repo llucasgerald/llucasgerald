@@ -3,7 +3,7 @@
 <div> 
   
   <a href="https://instagram.com/cod.glima?igshid=ZDdkNTZiNTM=" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:lucas3denator@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:lucas3denator@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-lima-934b44100/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
@@ -11,7 +11,7 @@
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=llucasgerald&show_icons=true&theme=gruvbox&count_private=true)
 
 
-## Tecnologias que eu uso no meu dia
+## Tecnologias que eu uso:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Java" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
