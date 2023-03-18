@@ -1,4 +1,4 @@
-## Olá, eu sou o Geraldo Lucas👋
+## Hi. I'm Geraldo Lucas 👋
 
 <div> 
   
