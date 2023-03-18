@@ -11,8 +11,7 @@
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=llucasgerald&show_icons=true&theme=gruvbox&count_private=true)
 
 
-## Tecnologias que eu uso:
-
+## Technologies I use
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Java" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="Lucas-Python" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
